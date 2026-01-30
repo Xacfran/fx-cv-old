@@ -1,4 +1,8 @@
 # My CV built and edited from scratch in R
+---------------------------
+THIS CV FORMAT IS NO LONGER BEING USED (01/2026) BUT WOULD LIKE TO KEEP THIS REPOSITORY IN CASE SOMEONE ELSE FINDS IT USEFUL.
+
+---------------------------
 
 Making this resume would have been impossible without the [pagedown](https://github.com/rstudio/pagedown) and [datadrivencv](https://github.com/nstrayer/datadrivencv) packages.
 
